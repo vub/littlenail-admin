@@ -1,12 +1,13 @@
 export const environment = {
   production: true,
   firebase: {
-    apiKey: "AIzaSyDM1ybQFpUe3fJ046KAfJeoiBHl5M51Rt0",
-    authDomain: "fireadmin-74e50.firebaseapp.com",
-    databaseURL: "https://fireadmin-74e50.firebaseio.com",
-    projectId: "fireadmin-74e50",
-    storageBucket: "fireadmin-74e50.appspot.com",
-    messagingSenderId: "1081829121945",
-    appId: "1:1081829121945:web:349839b2c6846c71143d08"
+    apiKey: "AIzaSyAxIwL5hV5aob9Rwg32OEWpnP84_7lSy6Y",
+    authDomain: "littlenail.firebaseapp.com",
+    databaseURL: "https://littlenail.firebaseio.com",
+    projectId: "littlenail",
+    storageBucket: "littlenail.appspot.com",
+    messagingSenderId: "772341827966",
+    appId: "1:772341827966:web:283eacc44db10650708b2f",
+    measurementId: "G-RSWW0GX1GF"
   }
 };
