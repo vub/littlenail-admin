@@ -1,0 +1,11 @@
+/*!
+ DataTables 1.10.21
+ ©2008-2020 SpryMedia Ltd - datatables.net/license
+*/
+
+/*!
+ DataTables styling wrapper for Responsive
+ ©2018 SpryMedia Ltd - datatables.net/license
+*/
+
+/*! jQuery v3.5.1 | (c) JS Foundation and other contributors | jquery.org/license */
