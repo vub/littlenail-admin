@@ -27,3 +27,8 @@ Install all dependences
 
 ### Considers
 - Infrastructure
+
+### Target customer ( customer fit )
+- Business value focus
+- Little layout customize
+- For customer who very specific requirement, make another core lib and extend it
