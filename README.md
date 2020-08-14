@@ -1,3 +1,8 @@
+# Project target
+Free / small amount for start, pay as far as your business grow
+
++ Loyal customer eco system
+
 ## Tools
 
 - Flutter
@@ -26,7 +31,8 @@ Install all dependences
 
 
 ### Considers
-- Infrastructure
+- Software Architecture
+- Hardware Infrastructure
 
 ### Target customer ( customer fit )
 - Business value focus
