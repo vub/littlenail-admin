@@ -38,3 +38,26 @@ Install all dependences
 - Business value focus
 - Little layout customize
 - For customer who very specific requirement, make another core lib and extend it
+
+
+### Domain business
+
+- Marketing
+- Content management
+- Ads
+- Business Management
+- Business Decision Helper: Data analytics
+- Social media
+- Content Producer
+- Logistics
+- Payment
+- Personal Finance
+- Business Finance
+- Banking
+- Software development service and solution
+- Business asitant
+
+- Content
+- Multiple life experience: Book, game, music, movies, stories, experiences
+- Service and social network
+    + Tho Dung
