@@ -7,7 +7,7 @@
     "build": "ng build && npm run copy:readme",
     "copy:readme": "cp README.md dist/fire-admin/",
     "build:admin": "ng build admin",
-    "build:admin:github": "ng build admin --prod --base-href \"/littlenail-admin/\"",
+    "build:admin:github": "ng build admin --prod --base-href \"/trusted-foundation/\"",
     "deploy:admin:github": "ngh --dir=dist/admin",
     "launch": "yarn build:admin:github && yarn deploy:admin:github",
     "test": "ng test",
