@@ -8,9 +8,9 @@ A minimalistic headless CMS around Angular & Firebase.
 
 ![screenshot](https://github.com/AXeL-dev/FireAdmin/blob/master/screenshots/dashboard.png?raw=true)
 
-## Demo
+## admin
 
-[FireAdmin Demo](https://axel-dev.github.io/FireAdmin/demo/login?email=guest@fireadmin.com&password=fireadmin)
+[FireAdmin admin](https://axel-dev.github.io/FireAdmin/admin/login?email=guest@fireadmin.com&password=fireadmin)
 
 ## Features
 
